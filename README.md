@@ -81,15 +81,6 @@ open index.html
 
 ---
 
-## 📸 Screenshots
-
-![Hero](./screenshots/hero.png)
-![Features](./screenshots/features.png)
-![Spaces](./screenshots/spaces.png)
-![Properties](./screenshots/properties.png)
-![Booking](./screenshots/booking.png)
-
----
 
 ## 🚀 Deployment
 
